@@ -3,6 +3,12 @@
 
 **Role:** Frontend Developer
 
+## Live Website
+https://share.google/FN7I3Cinv7YIEHICu
+
+## Tagline
+Made for Generations
+
 ## Project Overview
 Developed the frontend interface for Hyderabad Doors Factory, a digital platform for showcasing door collections and products.
 
